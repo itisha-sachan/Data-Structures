@@ -1,0 +1,7 @@
+3 types of inputs -
+    1. Scanner sc = new Scanner(System.in)  ------------------ import java.util.*
+
+
+i++ = Post increment
+++i = Pre Increment
+
